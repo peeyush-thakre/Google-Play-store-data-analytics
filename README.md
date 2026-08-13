@@ -212,7 +212,7 @@ Google-Playstore-Data-Analysis/
 Clone the repository:
 
 ``` bash
-git clone https://github.com/your-username/Google-Playstore-Data-Analysis.git
+git clone https://github.com/peeyush-thakre/Google-Playstore-Data-Analysis.git
 cd Google-Playstore-Data-Analysis
 ```
 
